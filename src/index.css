@@ -1,0 +1,40 @@
+body{
+  background-image: url(https://img.freepik.com/vector-gratis/lindo-personaje-dibujos-animados-perro-sentado_1308-135528.jpg);
+  background-repeat: no-repeat;
+  background-position-x: center;
+
+}
+
+.header{
+  text-align: center;
+  color:chocolate;
+}
+
+.footer{
+  text-align: center;
+  color:chocolate;
+
+}
+#card{
+  background-color: rgb(136, 203, 231,0.1);
+  width: 16rem;
+  height: 24rem;
+  border: solid "black" 2px;
+}
+
+.cardContainer{
+  
+  display:flex;
+  gap: 25px;
+  justify-content:center ;
+  margin-top: 75px;
+  margin-bottom: 70px;
+}
+
+.cardBody{
+  text-align: center;
+}
+
+.boton{
+  width: 100%;
+}
